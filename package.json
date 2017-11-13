@@ -5,20 +5,17 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "test": "tap test.js"
+    "docs": "jsdoc -c jsdoc.json"
   },
-  "author": "Lucas Wojciechowski",
+  "author": "Lucas Wojciechowski and Cyrille Pontvieux",
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "mapbox-gl": "^0.41.0"
   },
   "devDependencies": {
     "eslint": "^4.10.0",
     "eslint-config-mourner": "^2.0.3",
-    "flow-remove-types": "1.2.3",
-    "gl": "^4.0.4",
-    "jsdom": "^11.3.0",
-    "sinon": "^1.17.7",
-    "tap": "^10.7.3"
+    "jsdoc": "^3.5.5",
+    "tui-jsdoc-template": "^1.2.2"
   }
 }
