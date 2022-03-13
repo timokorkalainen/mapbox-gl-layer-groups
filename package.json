@@ -1,7 +1,7 @@
 {
-  "name": "mapbox-gl-js-layer-groups",
+  "name": "maplibre-gl-layer-groups",
   "version": "2.0.1",
-  "description": "A plugin to manage layer groups in Mapbox GL JS",
+  "description": "A plugin to manage layer groups in MapLibre GL",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
