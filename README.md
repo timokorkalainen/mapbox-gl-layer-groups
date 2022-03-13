@@ -1,4 +1,4 @@
-# Mapbox GL Layer Group Management Plugin
+# MapLibre GL Layer Group Management Plugin
 
 Layers can be grouped in different namespaces.
 
